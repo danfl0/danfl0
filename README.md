@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Dani
-- 👀 I’m interested in games
-- I'm learning programming
-- this profile is for a school project
+🔅
+- 👋 Sou a Daniele.
+- 👀 Aprendendo programação.
+- 🌠 Estou no ensino médio.
+- ✨ No momento fiz 1 jogo, planejo fazer mais.
+🔅
