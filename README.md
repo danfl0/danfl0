@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Dani
 - 👀 I’m interested in games
+- I'm learning programming
 - this profile is for a school project
