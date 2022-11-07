@@ -5,4 +5,3 @@
 - ✨ No momento fiz 1 jogo, planejo fazer mais.
 
 🔅
-<img> https://scratch.mit.edu/ </img>
